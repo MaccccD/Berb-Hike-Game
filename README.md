@@ -7,9 +7,9 @@ For more info on the design decisions that were made for this project, please ha
 
 
 The Team:
- 1. Jacques Coetzee -  Main Programmer. Contributed to the logic of the dice faces, including the counting up and down for the different tile platforms.
+ 1. Jacques Coetzee -  Main Programmer = Contributed to the logic of the dice faces, including the counting up and down for the different tile platforms.
 2. Dumi M. Mofolo - Level Designer and UI Designer = Contributed to the player movement logic and implemented the educational theme. Made the UI Design for the impact of the player actions on each aspect of the theme.
-3. Joy Skriker - Project Manager and Main Animator = Contributed her animation skils for each tiles effects and sound design.
+3. Joy Skriker - Project Manager and Main Animator = Contributed her animation skills for each tiles' effects and sound design.
 
 
 To download this game, please follow the following steps:
