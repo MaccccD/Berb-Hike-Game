@@ -18,6 +18,6 @@ i. Navigate to the Code section in the repository by clicking the  green button 
 
 ii. Select the "Download Zip" option. This will download the zip version of the game.
 
-iii. Once the zip has finished downloading, Unzip the project via right-clicking >>> extract files >> unzip.
+iii. Once the zip has finished downloading, Unzip the project via right-clicking >>> extract all files >> extract.
 
 iv. Double click on the ".exe" file and play :)
